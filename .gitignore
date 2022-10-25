@@ -70,6 +70,8 @@ buck-out/
 
 
 
+*yarn.lock
+yarn.lock
 
 # Logs
 logs
